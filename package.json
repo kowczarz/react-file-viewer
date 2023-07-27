@@ -87,10 +87,7 @@
     "three": "0.85.2",
     "xlsx": "^0.10.1"
   },
-  "peerDependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3"
-  },
+  "peerDependencies": {},
   "jest": {
     "testPathIgnorePatterns": [
       "<rootDir>[/\\\\](build|node_modules|scripts|example_files)[/\\\\]"
